@@ -2,4 +2,4 @@
 
 Type "FIRE" to drive the train.
 
-You can also use WASD to control the camera, but it's not that meaningful :(
+You can also use WASD and mouse to control the camera, but it's not that meaningful :(
