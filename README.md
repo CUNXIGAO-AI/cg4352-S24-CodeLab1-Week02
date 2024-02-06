@@ -1,5 +1,5 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# FIRE TRAIN GAME. 
 
-DO NOT LEAVE IT LIKE THIS!!!
+Type "FIRE" to drive the train.
 
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+You can also use WASD to control the camera, but it's not that meaningful :(
